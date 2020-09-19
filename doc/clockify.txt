@@ -1,0 +1,18 @@
+*clockify.txt* A template of a remote Python plugin.
+
+                    Vim-Clockify
+
+==============================================================================
+
+CONTENTS                                 *clockify-contents*
+
+    1. Introduction .................... |clockify-intro|
+
+
+Original Author:    Taras Yarema
+License:            The Unlicense
+
+INTRODUCTION                                *clockify-intro*
+
+A plugin to communicate with the Clockify API.
+
